@@ -1,0 +1,15 @@
+Quoted ABC at (bid:126.12, ask:125.84, price:125.98)
+Quoted DEF at (bid:124.66, ask:125.15, price:124.905)
+Ratio 1.008606540971138
+Quoted ABC at (bid:126.12, ask:125.84, price:125.98)
+Quoted DEF at (bid:124.66, ask:125.15, price:124.905)
+Ratio 1.008606540971138
+Quoted ABC at (bid:126.12, ask:125.05, price:125.58500000000001)
+Quoted DEF at (bid:124.66, ask:125.15, price:124.905)
+Ratio 1.005444137544534
+Quoted ABC at (bid:126.12, ask:125.05, price:125.58500000000001)
+Quoted DEF at (bid:124.66, ask:125.15, price:124.905)
+Ratio 1.005444137544534
+Quoted ABC at (bid:126.12, ask:125.05, price:125.58500000000001)
+Quoted DEF at (bid:124.66, ask:125.05, price:124.85499999999999)
+Ratio 1.0058467822674304
