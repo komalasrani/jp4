@@ -1,0 +1,16 @@
+import unittest
+
+class xxxTest(unittest.TestCase):
+
+    def test1(self):
+        self.assertEqual(xx, xxxxx)
+
+    def test2(self):
+        self.assertTrue(xxxxx)
+        self.assertFalse(xxxxxx)
+
+    def test3(self):
+        self.assertEqual(xxx, xxxx)
+
+if __name__ == '__main__':
+    unittest.main()
